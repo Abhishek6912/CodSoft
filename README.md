@@ -1,5 +1,14 @@
 # CodSoft_internship
 
+🚀 Welcome to the CodeSoft Web Development Internship! This repository contains the completed tasks for the internship program.
+
+🌐 About CodeSoft: CodeSoft is a dynamic and diverse community focused on leadership development, learning, and fostering shared interests. We provide platforms and resources to empower our community members to take on leadership roles and make a positive impact.
+
+📝 Internship Tasks: This repository includes completed tasks for Levels 1 of the web development internship. Tasks range from creating a personal portfolio to building a to-do list application and more.
+
+
+
+
 (Level 1)
 Task 1:- PORTFOLIO PAGE Creating a personal portfolio using CSS and HTML is a popular beginner web development project. Header Section: Add your name or a logo at the top. Optionally, include a brief introduction or tagline. About Section: Insert an image of yourself. Write a short bio highlighting your skills and experience. Skills Section: List your key skills or areas of expertise. Projects Section: Showcase samples of your work or projects. Include project titles, descriptions, and images. Resume Section: Provide a link to download your resume in PDF format. Contact Section: Include your contact information, such as email address and phone number. Footer: Add a copyright notice and any additional links or information.
 
